@@ -1,0 +1,7 @@
+Akshay|AmazonS3FullAccess
+Ramesh|AmazonS3ReadOnlyAccess
+Suresh|AmazonEC2FullAccess
+Ganesh|AWSLambdaExecute
+Imran|AWSHealthFullAccess
+Pankaj|AmazonDynamoDBFullAccess
+
